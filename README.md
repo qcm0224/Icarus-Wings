@@ -6,13 +6,11 @@
 Accepted to 2026 63nd ACM/IEEE Design Automation Conference (DAC)  </h5>
 <h5 align="center">
   
-```
 
 <p align="center">
   <img src="imgs/intro_dac_demo.jpg" width="800"/>
 </p>
 
-```
 
 
 
