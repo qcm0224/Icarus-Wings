@@ -3,7 +3,7 @@
 </a>
 </h2>
 <h5 align="center"> 
-Accepted to 2026 63nd ACM/IEEE Design Automation Conference (DAC)  </h5>
+Accepted to 2026 63rd ACM/IEEE Design Automation Conference (DAC)  </h5>
 <h5 align="center">
   
 
