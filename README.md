@@ -19,7 +19,7 @@ Accepted to 2026 63rd ACM/IEEE Design Automation Conference (DAC)  </h5>
 >
 > https://huggingface.co/spaces/dac-demo/MoEOffloading
 
+## 🚀 HF Deployment by Yourself
 
-
-Related code packed in Docker image will be released soon.
+Detailed deployment process along with related code packed in docker image will be released soon.
 
